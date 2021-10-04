@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #696969;
+}
+
+header {
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 400px;
+  width: 100%;
+}
+
+.service {
+  padding: 20px 0 0 20px;
+}
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.content {
+  margin-bottom: 30px;
+  width: 840px;
+  border-bottom: 1px solid #aaaaaa;
+  padding-bottom: 30px;
+}
