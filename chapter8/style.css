@@ -15,9 +15,11 @@ li {
   list-style: none;
   padding: 20px 0 20px 20px;
 }
+
 li:nth-child(odd) {
   background-color: #e7e7e7;
 }
+
 
 .boxes {
   margin: 50px auto;
